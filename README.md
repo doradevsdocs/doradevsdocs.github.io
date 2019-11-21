@@ -1,15 +1,17 @@
-#Markdown version
+# Markdown version
 
-**1. Do you need a car?**
+See the HTML version [here](http://doradevsdocs.github.io).
+
+## Do you need a car?
 
 Depending on your life-style or where you live you may want to try got without one and save a lot of money.
 In dense urban areas many people are starting to consider other types of mobility and sharing services. You can always rent for a special need like moving or a long holiday.
 
-**2. How much you want to spend?**
+1. How much you want to spend?
 
 When buying consider that the cost of acquisition is not only the expense you'll have. Factor in also regular expenses such as gas, maintenance, insurance and applicable taxes and the totals costs of financing.
 
-**3. What do you need?**
+2. What are your needs?
 
 What are your requirements. Your budget plus a prioritized list of requirement helps you rationalize your buy.
 
@@ -27,7 +29,7 @@ What are your requirements. Your budget plus a prioritized list of requirement h
 
 -   What kind of extras are indispensable for you?
 
-**4. Buying New or Used?**
+3. Buying New or Used?
 
 Budget will already help define whether to buy used or new. Both have advantages and disadvantages:
 
@@ -51,7 +53,7 @@ Budget will already help define whether to buy used or new. Both have advantages
 >
 > The insurance for a common old used might be lower depending on its by now well-known risk stats but you might feel inclined to include more coverage in terms of assistance.
 
-**4. How to finance it**
+4. How to finance it
 
 Most common options are direct, dealership financing or leasing. Decide taking into account how much you value owning the car straight off the bat and what kind of collaterals you have or want to offer.
 
@@ -75,7 +77,7 @@ Most common options are direct, dealership financing or leasing. Decide taking i
 >
 > Leasing offers better rates but have more terms than a regular car loan. Usually you have to consider terms such as down payment, rate and length of contract, financing charge and value of last payment in event of buying.
 
-**5. Where to buy it**
+5. Where to buy it
 
 **Used:**
 
@@ -92,41 +94,3 @@ You can get a better deal from open online market places like muuv or stand virt
 You have the physical stands of the brand, but most brands also have their online shop and are present in other dedicated online platforms such as muuv.pt.
 
 Are you a member of ACP, DECO or similar association's? Then you might want to check if they have special deals on cars that interest you.
-
-Sources:
-
-https://www.deco.proteste.pt/auto/automoveis/simule-e-poupe/financiamento-automovel/resultados?list
-
-https://creditorapido.pt/carros-usados-credito/
-
-https://www.consumer.ftc.gov/articles/0056-financing-or-leasing-car\#Before
-
-<https://itstillruns.com/leasing-vs-renting-car-5494569.html>
-
-<https://www.acp.pt/automovel/comprar-carro-novo/antes-de-comprar-carro>
-
-<https://www.moneycrashers.com/how-to-buy-car-tips/>
-
-<https://www.wikihow.com/Buy-a-Car>
-
-https://www.deco.proteste.pt/auto/automoveis/simule-e-poupe/financiamento-automovel/faq/howtochoose
-
-https://www.deco.proteste.pt/auto/seguro-automovel/simule-e-poupe/seguro-automovel-qual-o-mais-barato?driverSection
-
-https://www.dinheirovivo.pt/opiniao/491448/
-
-**Doing Your Homework**
-
-1.  Make a list of what you're looking for in a car.
-
-2.  Organize the list in terms of how important the criteria are to you.
-
-3.  Consider the advantages and disadvantages of buying a new car.
-
-4.  Consider the advantages and disadvantages of buying a used car.
-
-5.  Decide on a budget.
-
-6.  Look for models that fit your criteria and budget.
-
-
