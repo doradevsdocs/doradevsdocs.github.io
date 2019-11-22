@@ -1,6 +1,7 @@
 # Markdown version
 
-See the HTML version [here](http://doradevsdocs.github.io).
+See the HTML version [here](http://doradevsdocs.github.io). 
+Please consider [this](https://doradevsdocs.github.io/textversion.html) as the "latest release" or text I'd like you to consider. Cheers, DR. 
 
 ## Do you need a car?
 
