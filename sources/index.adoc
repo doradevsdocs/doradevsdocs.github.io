@@ -1,0 +1,11 @@
+
+[index]
+= Sample Guide
+
+<<textversion.adoc#textversion, Click here>> for the text version.
+
+image::images/site.png[width=65%, height=65%]
+
+<<textversion.adoc#textversion, Click here>> for the text version.
+
+//end of file

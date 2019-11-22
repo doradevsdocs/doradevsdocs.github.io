@@ -1,0 +1,56 @@
+[about]
+= [The Notes]How I got around this exercise
+
+When I received this exercise, it didn't square as typical technical writing content for me but more like a web guide.
+
+Here's how I went about this task:
+
+. Performed some research. Selected a key topics to include in my guide for redacting. 
+Following your instructions, I worked from the premise that accuracy wasn't relevant for the purposes of this exercise.
++
+Besides my personal experience, I used the following sources as a basis for my content:
++
+* https://www.deco.proteste.pt/auto/automoveis/simule-e-poupe/financiamento-automovel/resultados?list
+* https://creditorapido.pt/carros-usados-credito/
+* https://www.consumer.ftc.gov/articles/0056-financing-or-leasing-car#Before
+* https://itstillruns.com/leasing-vs-renting-car-5494569.html
+* https://www.acp.pt/automovel/comprar-carro-novo/antes-de-comprar-carro
+* https://www.moneycrashers.com/how-to-buy-car-tips/
+* https://www.wikihow.com/Buy-a-Car
+* https://www.deco.proteste.pt/auto/automoveis/simule-e-poupe/financiamento-automovel/faq/howtochoose
+
+. I wrote a draft. Drew the topics "Do you need a car" and "Where to find it" more from experience and wrote the other topics taking the main points from the 
+cited sources.
++
+NOTE: About the Pros and Cons section in the guide. I opted specifically not to break each point into a separate bullet item but to 
+ have pragraphs comparing both options as in a conversation with a friend, where we go back and forth considering both sides to a matter.
+For example: "With an old car you don't know if it was in a serious accident, but you also you can always get a unit out of the factory 
+that's defective. But chances are lower and you'll have warranty."
+
+. Decided on a presentation/distribution method. 
+
+[discrete]
+==[The Notes] About the presentation/distribution
+
+* *Formats* - I used pandoc(.org) to convert a docx into a asciidoctor file to do the bulk of the work(syntax) for me and post processed it.
+
+* *Presentation* - I used a infographic template from https://www.canva.com/ to create a mockup of a web leaflet. I exported this project in png and collated all the images in one file using Paint.net.
+
+* *Distribution* - I created a github repo and uploaded the HTML output.This output was built with the asciidoctor's static site generator from the asciidoctor sources.
+
+
+ I also created a markdown version which is contained in the repo's Readme file.
+
+
+
+As a note, here's a pic of the original canva template I selected:
+
+image::images/capture2.png[]
+
+Here's a pic of the edited template ready to export:
+
+image::images/capture1.png[]
+
+
+NOTE: I wanted to provide a more dynamic/complex presentation of the content (answer to exercise) but I had several constraints (mainly time).
+Ask me about this later if you find it relevant, cheers.
